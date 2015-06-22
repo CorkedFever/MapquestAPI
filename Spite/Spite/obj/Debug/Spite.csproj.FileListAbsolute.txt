@@ -1,0 +1,11 @@
+c:\users\win7lp\documents\visual studio 2013\Projects\Spite\Spite\bin\Debug\Spite.exe.config
+c:\users\win7lp\documents\visual studio 2013\Projects\Spite\Spite\bin\Debug\Spite.exe
+c:\users\win7lp\documents\visual studio 2013\Projects\Spite\Spite\bin\Debug\Spite.pdb
+c:\users\win7lp\documents\visual studio 2013\Projects\Spite\Spite\obj\Debug\Spite.csprojResolveAssemblyReference.cache
+c:\users\win7lp\documents\visual studio 2013\Projects\Spite\Spite\obj\Debug\Spite.Form1.resources
+c:\users\win7lp\documents\visual studio 2013\Projects\Spite\Spite\obj\Debug\Spite.Properties.Resources.resources
+c:\users\win7lp\documents\visual studio 2013\Projects\Spite\Spite\obj\Debug\Spite.csproj.GenerateResource.Cache
+c:\users\win7lp\documents\visual studio 2013\Projects\Spite\Spite\obj\Debug\Spite.exe
+c:\users\win7lp\documents\visual studio 2013\Projects\Spite\Spite\obj\Debug\Spite.pdb
+c:\users\win7lp\documents\visual studio 2013\Projects\Spite\Spite\bin\Debug\Newtonsoft.Json.dll
+c:\users\win7lp\documents\visual studio 2013\Projects\Spite\Spite\bin\Debug\Newtonsoft.Json.xml
